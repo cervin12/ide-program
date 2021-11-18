@@ -2,3 +2,6 @@
 - membuat artikel
 - membuat micro blog
 - membuat konten tik tok
+
+rencana tambahan: 
+- buat content gaming
